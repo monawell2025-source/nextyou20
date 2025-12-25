@@ -1,0 +1,12 @@
+{
+  "python.autoComplete.extraPaths": [
+    "./bot",
+    "./config",
+    "./infrastructure"
+  ],
+  "python.analysis.extraPaths": [
+    "./bot",
+    "./config",
+    "./infrastructure"
+  ]
+}
